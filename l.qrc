@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zx.ico</file>
+    </qresource>
+</RCC>
